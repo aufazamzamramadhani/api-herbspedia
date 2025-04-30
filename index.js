@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const plantsData = require('../plants.json');
+const plantsData = require('./plants.json');
 
 // Endpoint untuk menampilkan semua data tanaman
 app.get('/api/plants', (req, res) => {
