@@ -1,0 +1,248 @@
+[
+    {
+        "id" :1,
+        "kategory" : "Daun",
+        "nama": "Belimbing Wuluh",
+        "deskripsi": "Daun belimbing wuluh adalah bagian dari tanaman belimbing yang dikenal dengan aroma khasnya yang segar dan asam. Di samping digunakan luas dalam masakan tradisional untuk memberikan rasa dan aroma unik, daun belimbing wuluh juga memiliki manfaat kesehatan yang signifikan. Kandungan vitamin C yang tinggi dalam daun ini berperan penting dalam meningkatkan sistem kekebalan tubuh, melindungi sel-sel tubuh dari kerusakan oksidatif, serta membantu dalam proses penyembuhan luka. Selain itu, daun belimbing wuluh juga mengandung antioksidan yang membantu menangkal radikal bebas, serta memiliki sifat antiinflamasi yang membantu meredakan peradangan dalam tubuh.",
+        "kegunaan": "Daun belimbing wuluh memiliki beragam manfaat kesehatan yang dapat memberikan kontribusi positif bagi tubuh. Selain sebagai bahan utama dalam masakan tradisional untuk memberikan rasa segar dan asam, daun belimbing wuluh kaya akan vitamin C yang membantu memperkuat sistem kekebalan tubuh. Vitamin C juga berperan dalam melindungi sel-sel tubuh dari kerusakan oksidatif serta mendukung proses penyembuhan luka. Selain itu, daun ini mengandung senyawa antioksidan yang membantu melawan radikal bebas dalam tubuh, menjaga kesehatan kulit, dan mengurangi risiko penyakit kronis seperti penyakit jantung dan diabetes. Kandungan antiinflamasi dalam daun belimbing wuluh juga dapat membantu meredakan peradangan dan mengurangi risiko peradangan kronis. Dengan begitu, mengonsumsi daun belimbing wuluh secara teratur dapat memberikan manfaat besar bagi kesehatan secara keseluruhan.",
+        "gambar": "https://storage.googleapis.com/image-app/image/belimbing%20wuluh.png"
+    },
+    {
+        "id" :2,
+        "kategory" : "Daun",
+        "nama": "Jambu Biji",
+        "deskripsi": "Daun jambu biji memiliki berbagai khasiat kesehatan yang telah digunakan dalam pengobatan tradisional selama berabad-abad. Daun ini kaya akan vitamin C, serat, dan antioksidan yang penting untuk menjaga kesehatan tubuh. Vitamin C dalam daun jambu biji membantu meningkatkan sistem kekebalan tubuh, melindungi dari infeksi, dan mempercepat penyembuhan luka. Serat yang terdapat dalam daun jambu biji mendukung pencernaan yang sehat dan membantu mengontrol kadar gula darah, sementara antioksidan yang terkandung di dalamnya berfungsi melawan radikal bebas, melindungi sel-sel tubuh dari kerusakan, dan mengurangi risiko penyakit kronis. Selain itu, daun jambu biji juga dikenal memiliki sifat antiinflamasi dan antibakteri, yang dapat membantu meredakan peradangan dan melawan infeksi. Dengan berbagai manfaat ini, daun jambu biji merupakan tambahan berharga dalam upaya menjaga kesehatan secara alami.",
+        "kegunaan": "Daun jambu biji tidak hanya digunakan sebagai bahan makanan tambahan dalam masakan atau sebagai obat tradisional, tetapi juga memiliki sejumlah manfaat kesehatan yang berharga. Kandungan nutrisi yang melimpah, termasuk vitamin C dan serat, menjadikan daun ini bermanfaat dalam menjaga kesehatan tubuh secara menyeluruh. Vitamin C dalam daun jambu biji membantu meningkatkan sistem kekebalan tubuh, memperkuat pertahanan tubuh terhadap infeksi dan penyakit. Selain itu, serat dalam daun jambu biji mendukung pencernaan yang sehat, membantu mengatur kadar gula darah, dan menjaga kesehatan jantung. Daun jambu biji juga mengandung senyawa antioksidan yang dapat melawan radikal bebas, membantu melindungi sel-sel tubuh dari kerusakan, dan memperlambat penuaan sel. Dengan demikian, konsumsi daun jambu biji secara teratur dapat memberikan manfaat signifikan bagi kesehatan dan kesejahteraan tubuh secara keseluruhan.",
+        "gambar": "https://storage.googleapis.com/image-app/image/jambu%20biji.png"
+    },
+    {
+        "id" :3,
+        "kategory" : "Daun",
+        "nama": "Jeruk Nipis",
+        "deskripsi": "Daun jeruk nipis dikenal memiliki berbagai manfaat kesehatan yang membuatnya populer dalam pengobatan tradisional. Daun ini kaya akan vitamin C, flavonoid, dan berbagai senyawa fitokimia yang berfungsi sebagai antioksidan. Vitamin C yang terkandung dalam daun jeruk nipis membantu meningkatkan sistem kekebalan tubuh, melawan infeksi, dan mempercepat penyembuhan luka. Antioksidan dalam daun ini juga berperan dalam melindungi sel-sel tubuh dari kerusakan akibat radikal bebas, sehingga dapat membantu mencegah penuaan dini dan berbagai penyakit kronis. Selain itu, daun jeruk nipis memiliki sifat antiinflamasi dan antibakteri yang dapat meredakan peradangan dan membantu melawan infeksi bakteri. Penggunaan daun jeruk nipis dalam bentuk teh atau infus juga diketahui dapat membantu memperbaiki pencernaan dan menjaga kesehatan mulut. Dengan berbagai manfaat ini, daun jeruk nipis merupakan salah satu bahan alami yang berkhasiat untuk mendukung kesehatan tubuh.",
+        "kegunaan": "menyembuhkan flu, terutama saat menghadapi influenza parah.",
+        "gambar": "https://storage.googleapis.com/image-app/image/jeruk%20nipis.png"
+    },
+    {
+        "id" :4,
+        "kategory" : "Daun",
+        "nama": "Kemangi",
+        "deskripsi": "Selain antioksidan, penelitian menunjukkan bahwa daun kemangi juga memiliki sifat antikanker. Kandungan antikanker dalam daun kemangi diketahui dapat melawan sel kanker dalam tubuh, termasuk kanker paru-paru, kanker hati, kanker mulut, dan kanker kulit.",
+        "kegunaan": "Kemangi, dengan aroma harum dan segar, memiliki berbagai kegunaan untuk kesehatan yang telah lama diapresiasi dalam pengobatan tradisional. Daun kemangi kaya akan antioksidan, seperti flavonoid dan beta-karoten, yang membantu melawan radikal bebas dan melindungi sel-sel tubuh dari kerusakan oksidatif. Kandungan eugenol dalam kemangi memiliki sifat antiinflamasi yang dapat membantu mengurangi peradangan dan nyeri. Selain itu, kemangi dikenal dapat meningkatkan kesehatan pencernaan dengan meredakan gangguan seperti kembung dan gangguan pencernaan. Daun ini juga memiliki sifat antibakteri yang membantu melawan infeksi bakteri dan menjaga kesehatan mulut. Dengan mengonsumsi kemangi secara teratur, seseorang dapat memanfaatkan berbagai manfaat kesehatannya, termasuk peningkatan fungsi imun, peredaan peradangan, dan perlindungan terhadap infeksi.",
+        "gambar": "https://storage.googleapis.com/image-app/image/kemangi.png"
+    },
+    {
+        "id" :5,
+        "kategory" : "Daun",
+        "nama": "Lidah Buaya",
+        "deskripsi": "Lidah buaya populer digunakan sebagai obat alami untuk membantu penyembuhan luka, seperti goresan dan luka bakar. Sifat antimikroba pada aloe vera menjadikannya efektif untuk membersihkan dan mengurangi risiko infeksi luka.",
+        "kegunaan": "Lidah buaya, yang terkenal dengan sifat penyembuhan dan pelembapnya, memiliki berbagai kegunaan untuk kesehatan. Gel dari daun lidah buaya kaya akan vitamin, mineral, enzim, dan asam amino yang penting untuk kesehatan kulit dan rambut. Sifat antiinflamasi dan antiseptiknya membantu meredakan luka bakar, luka gores, dan iritasi kulit, mempercepat proses penyembuhan. Lidah buaya juga dikenal mampu menghidrasi dan melembapkan kulit, sehingga sering digunakan dalam produk perawatan kulit untuk mengatasi kulit kering dan menjaga kelembutan kulit. Selain manfaat eksternal, lidah buaya dapat dikonsumsi dalam bentuk jus untuk membantu pencernaan, meningkatkan sistem kekebalan tubuh, dan mendetoksifikasi tubuh. Dengan mengonsumsi atau mengaplikasikan lidah buaya secara teratur, seseorang dapat memanfaatkan berbagai manfaat kesehatannya, mulai dari penyembuhan kulit hingga peningkatan kesehatan pencernaan dan imunitas.",
+        "gambar": "https://storage.googleapis.com/image-app/image/lidah%20buaya.png"
+    },
+    {
+        "id" :6,
+        "kategory" : "Daun",
+        "nama": "Nangka",
+        "deskripsi": "Daun nangka juga memiliki aktifitas penghambatan tirosinase yang diperoleh dari senyawa flavonoid. Tinjauan pustaka ini bertujuan untuk memaparkan peranan Artocarpus heterophyllus sebagai antioksidan, anti-inflamasi, antifungal, antiviral, antikanker dan antibakteri dalam bidang dermatologi..",
+        "kegunaan": "Daun nangka memiliki berbagai manfaat kesehatan yang menjadikannya bagian penting dari pengobatan tradisional di banyak budaya. Kaya akan antioksidan, seperti flavonoid dan saponin, daun nangka membantu melindungi sel-sel tubuh dari kerusakan oksidatif yang disebabkan oleh radikal bebas, sehingga dapat mengurangi risiko penyakit kronis dan penuaan dini. Selain itu, daun nangka dikenal memiliki sifat antiinflamasi dan antibakteri yang efektif dalam meredakan peradangan dan melawan infeksi bakteri. Daun nangka juga dipercaya dapat membantu mengontrol kadar gula darah, menjadikannya bermanfaat bagi penderita diabetes. Dalam bentuk teh atau ekstrak, daun nangka digunakan untuk meningkatkan kesehatan pencernaan, meredakan gangguan perut, dan memperbaiki fungsi hati. Dengan berbagai khasiat ini, daun nangka menjadi solusi alami yang efektif untuk mendukung kesehatan tubuh secara keseluruhan.",
+        "gambar": "https://storage.googleapis.com/image-app/image/nangka.png"
+    },
+    {
+        "id" :7,
+        "kategory" : "Daun",
+        "nama": "Pepaya",
+        "deskripsi": "Daun pepaya memiliki beragam manfaat kesehatan yang telah dikenal dalam pengobatan tradisional. Kandungan enzim papain dalam daun pepaya dapat membantu memecah protein dalam makanan, yang bermanfaat untuk pencernaan yang lebih baik. Selain itu, daun pepaya mengandung senyawa fitokimia dan antioksidan seperti karotenoid dan flavonoid, yang mendukung sistem kekebalan tubuh dan melindungi sel-sel dari kerusakan oksidatif. Secara tradisional, daun pepaya juga digunakan untuk meredakan peradangan, mempercepat penyembuhan luka, serta membantu mengatasi masalah pencernaan seperti sembelit dan gangguan pencernaan ringan.",
+        "kegunaan": "Daun pepaya memiliki sejumlah manfaat kesehatan yang menjadikannya populer dalam pengobatan tradisional. Kaya akan enzim papain dan chymopapain, daun pepaya membantu meningkatkan pencernaan dengan memecah protein dan meredakan masalah pencernaan seperti sembelit dan perut kembung. Selain itu, daun pepaya dikenal memiliki sifat antimalaria dan antimikroba yang efektif dalam melawan infeksi dan memperkuat sistem kekebalan tubuh. Daun ini juga mengandung antioksidan kuat seperti vitamin C dan vitamin E yang membantu melindungi sel-sel tubuh dari kerusakan akibat radikal bebas. Untuk penderita demam berdarah, ekstrak daun pepaya telah terbukti dapat meningkatkan jumlah trombosit dan mempercepat pemulihan. Dengan mengonsumsi daun pepaya dalam bentuk teh, jus, atau suplemen, seseorang dapat memanfaatkan berbagai manfaat kesehatannya, mulai dari peningkatan pencernaan hingga penguatan sistem kekebalan tubuh.",
+        "gambar": "https://storage.googleapis.com/image-app/image/pepaya.png"
+    },
+    {
+        "id" :8,
+        "kategory" : "Daun",
+        "nama": "Sirih",
+        "deskripsi": "Daun sirih merupakan tanaman merambat yang banyak ditemukan di Asia Tenggara dan memiliki nilai penting dalam pengobatan tradisional serta kegunaan sehari-hari. Kaya akan senyawa aktif seperti alkaloid, flavonoid, dan minyak atsiri, daun sirih dikenal memiliki berbagai manfaat untuk kesehatan. Secara tradisional, daun sirih digunakan untuk perawatan mulut, membantu mengurangi bau mulut, serta menjaga kesehatan gigi dan gusi dengan efek antimikroba yang kuat. Selain itu, daun sirih juga dikenal dapat meredakan batuk, sakit tenggorokan, dan digunakan sebagai antiseptik untuk luka-luka kecil. Dengan kandungan antioksidan yang dimilikinya, daun sirih juga memberikan perlindungan tambahan dengan melawan radikal bebas dalam tubuh, mendukung kesehatan umum secara keseluruhan.",
+        "kegunaan": "Daun sirih memiliki beragam kegunaan yang bermanfaat bagi kesehatan. Salah satu kegunaannya yang paling terkenal adalah sebagai perawatan untuk kesehatan mulut. Daun sirih digunakan secara luas untuk mengatasi masalah bau mulut dan menjaga kebersihan gigi serta gusi. Kandungan senyawa aktif seperti alkaloid dan flavonoid dalam daun sirih memberikan efek antimikroba yang efektif, membantu mengurangi pertumbuhan bakteri penyebab penyakit dalam rongga mulut. Selain itu, daun sirih juga memiliki sifat antiseptik yang bermanfaat untuk meredakan sakit tenggorokan dan mempercepat penyembuhan luka kecil. Penggunaan daun sirih tidak hanya bersifat tradisional tetapi juga diperkuat oleh penelitian modern yang menunjukkan potensi tanaman ini dalam menjaga kesehatan gigi dan mulut serta memberikan perlindungan antioksidan terhadap radikal bebas dalam tubuh.",
+        "gambar": "https://storage.googleapis.com/image-app/image/sirih.png"
+    },
+    {
+        "id" :9,
+        "kategory" : "Daun",
+        "nama": "Seledri",
+        "deskripsi": "Daun seledri merupakan bagian dari tanaman yang dikenal dengan batang hijau dan daun berukuran kecil. Di samping digunakan sebagai bahan makanan dan bumbu masakan yang sering menyegarkan, daun seledri juga memiliki nilai tambah dalam konteks kesehatan. Kandungan nutrisi yang kaya, termasuk vitamin K, vitamin C, dan folat, menjadikannya pilihan yang baik untuk mendukung kesehatan tulang, sistem kekebalan tubuh, dan metabolisme. Selain itu, seledri dikenal karena sifat antiinflamasi dan antioksidannya yang membantu dalam mengurangi peradangan dan melindungi sel-sel tubuh dari kerusakan oksidatif. Penggunaan tradisionalnya mencakup manfaat sebagai diuretik ringan, yang mendukung kesehatan ginjal dan pencernaan. Dengan kombinasi nutrisi dan manfaatnya yang luas, daun seledri sering kali diintegrasikan dalam diet sehat untuk memperkuat keseimbangan nutrisi dan mendukung kesehatan secara keseluruhan.",
+        "kegunaan": "Daun seledri memiliki banyak kegunaan yang bermanfaat bagi kesehatan. Tanaman ini tidak hanya digunakan sebagai bahan makanan dan bumbu masakan yang menyegarkan, tetapi juga dikenal karena kandungan nutrisi dan senyawa bioaktifnya yang berpotensi menyehatkan. Seledri kaya akan antioksidan, vitamin, dan mineral seperti vitamin K, vitamin C, kalium, dan folat. Kombinasi nutrisi ini mendukung kesehatan jantung dengan membantu menurunkan tekanan darah dan meningkatkan fungsi pembuluh darah. Selain itu, seledri juga dikenal dapat meredakan peradangan dalam tubuh berkat kandungan flavonoid dan senyawa fitokimia lainnya. Secara tradisional, seledri digunakan untuk meningkatkan sistem pencernaan, mengurangi kolesterol, dan mendukung fungsi ginjal yang sehat. Dengan berbagai manfaatnya, seledri menjadi pilihan populer tidak hanya dalam masakan tetapi juga sebagai bagian dari diet sehat untuk mendukung kesehatan secara keseluruhan.",
+        "gambar": "https://storage.googleapis.com/image-app/image/seledri.png"
+    },
+    {
+        "id" :10,
+        "kategory" : "Batang",
+        "nama": "Kayu Manis",
+        "deskripsi": "Kayu manis adalah rempah yang terkenal karena aroma dan rasanya yang khas, serta memiliki berbagai manfaat kesehatan. Kaya akan antioksidan seperti polifenol, kayu manis membantu melindungi tubuh dari kerusakan oksidatif yang disebabkan oleh radikal bebas. Sifat antiinflamasi dari kayu manis dapat membantu mengurangi peradangan dan risiko penyakit kronis. Selain itu, kayu manis dikenal mampu meningkatkan sensitivitas insulin, yang berkontribusi pada pengaturan kadar gula darah, menjadikannya bermanfaat bagi penderita diabetes tipe 2. Kayu manis juga memiliki sifat antimikroba yang efektif melawan infeksi bakteri dan jamur, serta dapat meningkatkan kesehatan jantung dengan menurunkan kadar kolesterol dan tekanan darah.",
+        "kegunaan": "Kayu manis memiliki berbagai kegunaan untuk kesehatan yang signifikan. Salah satu manfaat utamanya adalah kemampuannya untuk mengatur kadar gula darah, menjadikannya bermanfaat bagi penderita diabetes tipe 2 dengan meningkatkan sensitivitas insulin. Selain itu, kayu manis memiliki sifat antioksidan yang kuat, yang membantu melawan radikal bebas dan melindungi sel-sel tubuh dari kerusakan oksidatif. Sifat antiinflamasinya juga membantu mengurangi peradangan dalam tubuh, yang dapat menurunkan risiko penyakit kronis seperti penyakit jantung dan arthritis. Selain itu, kayu manis memiliki sifat antimikroba yang dapat membantu melawan infeksi bakteri dan jamur, serta meningkatkan kesehatan pencernaan dengan meredakan gangguan perut dan mendukung metabolisme yang sehat.",
+        "gambar": "https://storage.googleapis.com/image-app/image/Kayu%20manis.png"
+    },
+    {
+        "id" :11,
+        "kategory" : "Batang",
+        "nama" : "Batang Brotowali",
+        "deskripsi" : "Batang brotowali (Tinospora crispa), yang dikenal dengan rasa pahitnya yang khas, memiliki beragam manfaat kesehatan yang penting. Batang ini mengandung berbagai senyawa bioaktif seperti alkaloid, flavonoid, dan saponin yang memberikan sifat antipiretik (penurun demam), antiinflamasi, dan antimalaria. Secara tradisional, batang brotowali digunakan untuk menurunkan demam, mengatasi malaria, dan meredakan nyeri akibat peradangan. Selain itu, batang brotowali juga dikenal efektif dalam meningkatkan nafsu makan dan membantu mengontrol kadar gula darah, menjadikannya pilihan alami yang bermanfaat bagi penderita diabetes. Dengan kemampuannya untuk meningkatkan sistem kekebalan tubuh dan membantu detoksifikasi, batang brotowali merupakan salah satu herbal yang sangat dihargai dalam pengobatan tradisional untuk menjaga kesehatan secara keseluruhan.        ",
+        "kegunaan" : "Batang brotowali (Tinospora crispa) memiliki berbagai kegunaan kesehatan yang penting, terutama dalam pengobatan tradisional. Sifat antipiretiknya menjadikan batang ini efektif untuk menurunkan demam, sementara sifat antiinflamasinya membantu meredakan nyeri dan peradangan. Brotowali juga dikenal dengan kemampuannya untuk mengatasi malaria dan berbagai infeksi lainnya berkat kandungan senyawa bioaktifnya. Selain itu, batang brotowali dapat membantu meningkatkan nafsu makan, memperbaiki sistem pencernaan, dan mengontrol kadar gula darah, sehingga bermanfaat bagi penderita diabetes. Dengan kemampuannya untuk memperkuat sistem kekebalan tubuh dan mendetoksifikasi, batang brotowali menjadi pilihan alami yang berharga untuk menjaga kesehatan secara menyeluruh.",
+         "gambar": "https://storage.googleapis.com/image-app/image/batang%20brotowali.png"
+    },
+    {
+        "id" :12,
+        "kategory" : "Batang",
+        "nama" : "Batang Serai",
+        "deskripsi" : "Batang serai, atau sering juga disebut sebagai batang sereh, adalah bagian dari tanaman yang kaya akan manfaat kesehatan. Di samping digunakan sebagai bumbu dapur yang aromatik, batang serai memiliki nilai tambah dalam pengobatan tradisional dan herbalisme. Kandungan utama dalam batang serai adalah minyak atsiri, seperti citronella, yang memiliki sifat antiseptik, antimikroba, dan antiinflamasi. Ini membuatnya efektif dalam mengatasi berbagai masalah kesehatan, termasuk meredakan nyeri, mengurangi peradangan, dan membantu dalam pencernaan. Batang serai juga dikenal dapat menurunkan kolesterol, meningkatkan sistem kekebalan tubuh, serta memberikan efek menenangkan pada sistem saraf. Dengan aroma segarnya dan khasiatnya yang melimpah, batang serai merupakan pilihan yang baik untuk mendukung kesehatan secara alami.",
+        "kegunaan" : "Batang serai memiliki berbagai manfaat kesehatan yang signifikan. Kandungan minyak atsiri utamanya, seperti citronella, memberikan sifat antiseptik, antimikroba, dan antiinflamasi yang membantu dalam mengatasi berbagai kondisi kesehatan. Secara tradisional, serai digunakan untuk meredakan nyeri, mengurangi peradangan, dan meningkatkan pencernaan. Selain itu, serai juga dapat membantu menurunkan kolesterol dalam darah, memperkuat sistem kekebalan tubuh, serta memberikan efek menenangkan pada sistem saraf. Penggunaannya sebagai teh atau infus juga dikenal untuk meredakan sakit kepala dan mengurangi stres. Dengan kombinasi khasiatnya yang luas dan kemudahan penggunaannya, batang serai merupakan tambahan berharga dalam perawatan kesehatan alami.",
+         "gambar": "https://storage.googleapis.com/image-app/image/batang%20serai.png"
+    },
+    {
+        "id" :13,
+        "kategory" : "Batang",
+        "nama" : "Batang Kencur",
+        "deskripsi" : "Batang kencur adalah bagian dari tanaman yang telah lama digunakan dalam pengobatan tradisional di berbagai budaya, terutama di Asia Tenggara. Tanaman ini dikenal karena kandungan senyawa aktifnya yang kaya, seperti minyak atsiri dan zat antiinflamasi. Kencur sering digunakan sebagai obat untuk meredakan gangguan pencernaan, seperti perut kembung dan mual, serta untuk meningkatkan nafsu makan. Selain itu, kencur juga terkenal karena sifatnya yang dapat membantu meredakan nyeri otot dan sendi, serta sebagai tonik yang memperkuat sistem kekebalan tubuh. Dengan kandungan antioksidan dan sifat antimikroba, kencur juga dipercaya dapat membantu melawan infeksi bakteri dan virus. Dengan berbagai manfaatnya, kencur merupakan tambahan yang berharga dalam menjaga kesehatan secara alami.",
+        "kegunaan" : "Batang kencur memiliki berbagai manfaat kesehatan yang signifikan dalam pengobatan tradisional. Kencur sering digunakan untuk meredakan gangguan pencernaan seperti perut kembung, mual, dan kram perut. Selain itu, kencur juga dikenal dapat meningkatkan nafsu makan. Sifat antiinflamasi alami dari kencur membantu meredakan nyeri pada otot dan sendi, sehingga sering digunakan sebagai obat tradisional untuk mengurangi gejala seperti pegal-pegal atau arthritis ringan. Kencur juga mengandung antioksidan yang membantu melawan radikal bebas dalam tubuh, serta memiliki sifat antimikroba yang dapat membantu melawan infeksi bakteri dan virus. Dengan kombinasi manfaat ini, kencur tidak hanya memberikan bantuan dalam mengatasi masalah kesehatan sehari-hari tetapi juga meningkatkan daya tahan tubuh secara keseluruhan.",
+         "gambar": "https://storage.googleapis.com/image-app/image/kencur.png"
+    },
+    {
+        "id" :14,
+        "kategory" : "Batang",
+        "nama" : "Batang Temulawak",
+        "deskripsi" : "Batang temulawak, yang merupakan bagian dari tanaman Curcuma xanthorrhiza, memiliki nilai penting dalam pengobatan tradisional di berbagai budaya. Kaya akan senyawa fitokimia seperti curcuminoid dan xanthorrhizol, temulawak dikenal memiliki berbagai manfaat kesehatan. Senyawa-senyawa ini memiliki sifat antiinflamasi dan antioksidan yang kuat, membantu mengurangi peradangan dalam tubuh dan melindungi sel-sel dari kerusakan oksidatif. Selain itu, temulawak juga digunakan untuk meningkatkan pencernaan, meredakan gangguan pencernaan seperti perut kembung, serta mendukung kesehatan hati dengan meningkatkan produksi empedu. Dengan berbagai manfaatnya, temulawak menjadi salah satu tanaman yang diandalkan dalam menjaga kesehatan secara holistik.",
+        "kegunaan" : "Batang temulawak, yang merupakan bagian dari tanaman temulawak yang kaya akan manfaat kesehatan, sering digunakan dalam pengobatan tradisional untuk berbagai tujuan. Kandungan senyawa bioaktif seperti kurkumin dalam temulawak memberikan efek antiinflamasi yang membantu meredakan peradangan dalam tubuh. Selain itu, temulawak juga dikenal memiliki sifat antimikroba dan antivirus yang membantu melawan infeksi bakteri dan virus. Penggunaan temulawak secara teratur dapat membantu meningkatkan sistem kekebalan tubuh, serta berpotensi menjaga kesehatan hati dengan merangsang produksi empedu. Temulawak juga diketahui memiliki efek detoksifikasi, membantu dalam membersihkan racun dalam tubuh. Dengan berbagai manfaatnya, temulawak menjadi salah satu tanaman yang sangat dihargai dalam upaya menjaga kesehatan secara alami.", 
+         "gambar": "https://storage.googleapis.com/image-app/image/temulawak.png"
+    },
+    {
+        "id" :15,
+        "kategory" : "Akar",
+        "nama": "Akar brotowali",
+        "deskripsi": "Akar brotowali adalah bagian dari tanaman brotowali (Tinospora crispa) yang tumbuh di wilayah tropis seperti Indonesia, India, dan Filipina. Tanaman ini dikenal dengan batangnya yang menjalar dan memiliki permukaan kasar serta daunnya yang berbentuk hati. Akar brotowali memiliki tekstur keras dan warna cokelat hingga abu-abu, dengan rasa yang sangat pahit. Tanaman ini tumbuh subur di daerah hutan atau tempat dengan kelembapan tinggi dan sering ditemukan merambat pada pohon atau pagar.",
+        "kegunaan": "Akar brotowali telah lama digunakan dalam pengobatan tradisional untuk berbagai manfaat kesehatan. Akar ini dikenal karena sifatnya yang antipiretik, antidiabetik, antiinflamasi, dan imunomodulator. Ekstrak dari akar brotowali sering digunakan untuk menurunkan demam, mengatasi gangguan pencernaan, dan membantu mengontrol kadar gula darah pada penderita diabetes. Selain itu, akar brotowali juga dipercaya dapat memperkuat sistem kekebalan tubuh, membantu detoksifikasi, dan meredakan nyeri serta peradangan pada kondisi seperti arthritis. Dengan kandungan senyawa aktif seperti alkaloid, flavonoid, dan terpenoid, akar brotowali menjadi salah satu bahan alami yang bermanfaat dalam menjaga kesehatan secara keseluruhan.",
+        "gambar": "https://storage.googleapis.com/image-app/image/Akar_brotowali.png"
+    },
+    {
+        "id" :16,
+        "kategory" : "Akar",
+        "nama": "Akar alang-alang",
+        "deskripsi": "Akar alang-alang merupakan bagian dari tanaman alang-alang (Imperata cylindrica), yang dikenal juga sebagai ilalang atau cogon grass. Tanaman ini memiliki daun yang panjang, ramping, dan tajam di ujungnya, serta sering ditemukan tumbuh liar di padang rumput, tepi jalan, dan lahan kosong. Akar alang-alang berbentuk serabut, berwarna putih kekuningan, dan cenderung merayap di bawah tanah, membuat tanaman ini sulit diberantas. Tanaman ini mampu bertahan di berbagai kondisi tanah dan cuaca, menjadikannya salah satu tanaman yang sangat invasif.",
+        "kegunaan": "Akar alang-alang telah lama digunakan dalam pengobatan tradisional karena berbagai manfaat kesehatannya. Akar ini dikenal memiliki sifat diuretik yang efektif untuk membantu melancarkan buang air kecil dan mengatasi masalah pada saluran kemih, seperti infeksi atau batu ginjal. Selain itu, akar alang-alang memiliki sifat antiinflamasi dan antipiretik yang dapat membantu meredakan demam dan peradangan. Kandungan alami dalam akar alang-alang, seperti asam kersik dan manitol, juga berperan dalam membersihkan darah dan membantu mengatasi hipertensi. Penggunaan akar alang-alang dalam bentuk rebusan atau ekstrak sangat umum di kalangan masyarakat yang memanfaatkan tanaman ini untuk menjaga kesehatan ginjal dan sistem peredaran darah.",
+        "gambar": "https://storage.googleapis.com/image-app/image/%20Akar%20alang-alang.png"
+    },
+    {
+        "id" :17,
+        "kategory" : "Akar",
+        "nama": "Akar Bangle",
+        "deskripsi": "Akar bangle adalah bagian dari tanaman bangle (Zingiber montanum), yang termasuk dalam keluarga jahe-jahean (Zingiberaceae). Tanaman ini memiliki batang semu yang tegak dan daun berbentuk lanset dengan warna hijau gelap. Akar bangle berbentuk rimpang dengan permukaan yang kasar dan warna yang bervariasi dari kuning ke cokelat, serta memiliki aroma yang khas dan tajam. Tanaman ini tumbuh subur di daerah tropis seperti Indonesia, India, dan Malaysia, sering ditemukan di pekarangan rumah atau kebun herbal. Rimpang bangle mengandung banyak senyawa bioaktif, seperti minyak atsiri, flavonoid, dan saponin, yang berkontribusi pada khasiat kesehatannya.",
+        "kegunaan": "Akar bangle telah lama digunakan dalam pengobatan tradisional karena berbagai manfaat kesehatannya. Rimpang bangle dikenal memiliki sifat antiinflamasi, antimikroba, dan analgesik yang efektif untuk mengatasi berbagai kondisi kesehatan. Penggunaan akar bangle dalam bentuk ramuan atau ekstrak dapat membantu meredakan nyeri otot dan sendi, mengurangi peradangan, serta mengobati infeksi bakteri dan jamur. Selain itu, bangle juga dikenal bermanfaat untuk memperbaiki pencernaan, meredakan kembung, dan meningkatkan nafsu makan. Sifat ekspektoran dari bangle membantu mengatasi batuk dan masalah pernapasan. Dengan kandungan senyawa aktif seperti borneol dan cineole, akar bangle menjadi pilihan populer dalam pengobatan tradisional untuk menjaga kesehatan secara keseluruhan.",
+        "gambar": "https://storage.googleapis.com/image-app/image/Akar_Bangle.png"
+    },
+    {
+        "id" :18,
+        "kategory" : "Akar",
+        "nama": "Akar ginseng",
+        "deskripsi": "Akar ginseng adalah bagian dari tanaman ginseng (Panax ginseng), yang tumbuh di wilayah beriklim dingin seperti Korea, Cina, dan Siberia Timur. Akar ini dikenal dengan bentuknya yang menyerupai tubuh manusia, dengan bercabang yang menyerupai lengan dan kaki. Akar ginseng memiliki warna putih kekuningan hingga cokelat terang, dengan tekstur yang tebal dan serabut halus. Tanaman ginseng tumbuh lambat, sering kali memerlukan beberapa tahun sebelum akarnya siap untuk dipanen, yang berkontribusi pada nilainya yang tinggi. Akar ginseng mengandung berbagai senyawa bioaktif, seperti ginsenosida, yang berperan dalam berbagai manfaat kesehatannya.",
+        "kegunaan": "Akar ginseng telah lama digunakan dalam pengobatan tradisional dan modern karena beragam manfaat kesehatannya. Ginseng dikenal memiliki sifat adaptogenik, yang membantu tubuh mengatasi stres dan meningkatkan energi serta stamina. Penggunaan akar ginseng juga dapat meningkatkan fungsi kognitif, memperbaiki daya ingat, dan meningkatkan konsentrasi. Selain itu, ginseng memiliki sifat antioksidan dan antiinflamasi yang dapat membantu memperkuat sistem kekebalan tubuh, mengurangi peradangan, dan mencegah berbagai penyakit kronis. Ginsenosida dalam ginseng juga bermanfaat untuk meningkatkan kesehatan jantung, mengatur kadar gula darah, dan meningkatkan fungsi seksual. Secara keseluruhan, akar ginseng merupakan tonik alami yang efektif untuk meningkatkan kesehatan dan kesejahteraan secara umum.",
+         "gambar": "https://storage.googleapis.com/image-app/image/akar%20gingseng.png"
+    },
+    {
+        "id" :19,
+        "kategory" : "Akar",
+        "nama": "Akar wangi",
+        "deskripsi": "Akar wangi, atau yang dikenal sebagai vetiver (Vetiveria zizanoides), adalah bagian dari tanaman rumput vetiver yang tumbuh subur di daerah tropis seperti India, Indonesia, dan Haiti. Tanaman ini memiliki batang yang tegak dengan daun panjang dan ramping. Akar wangi terkenal dengan sistem perakarannya yang dalam dan padat, yang membuatnya sangat efektif dalam mencegah erosi tanah. Akar ini memiliki aroma yang khas dan menenangkan, berwarna cokelat keputihan dengan tekstur kasar. Minyak esensial yang dihasilkan dari akar wangi sering digunakan dalam industri parfum dan aromaterapi karena wanginya yang khas dan bertahan lama.",
+        "kegunaan": "Akar wangi memiliki berbagai manfaat kesehatan, terutama karena kandungan minyak esensialnya yang kaya akan zat aktif seperti vetiverol dan vetivone. Minyak esensial dari akar wangi dikenal memiliki sifat menenangkan dan digunakan dalam aromaterapi untuk meredakan stres, kecemasan, dan insomnia. Selain efek relaksasi, akar wangi juga memiliki sifat antiinflamasi dan antiseptik, yang berguna dalam mengobati luka ringan dan infeksi kulit. Penggunaan akar wangi dalam bentuk minyak atau ramuan juga dapat membantu meredakan nyeri sendi dan otot. Selain itu, karena sifatnya yang pendingin, akar wangi sering digunakan untuk mengatasi masalah kulit seperti jerawat dan ruam, serta membantu mengurangi peradangan dan memperbaiki kondisi kulit.",
+        "gambar": "https://storage.googleapis.com/image-app/image/Akar_wangi.png"
+  },
+  {
+    "id" :20,
+    "kategory" : "Akar",
+    "nama": "Akar aren",
+    "deskripsi": "Akar aren, dikenal juga sebagai aren (Arenga pinnata), adalah tanaman palem yang tumbuh di daerah tropis dan subtropis, terutama di Asia Tenggara. Tanaman ini memiliki batang yang tegak dan kuat dengan daun panjang yang menyirip, membentuk kanopi yang lebat. Bagian akarnya merambat dan kuat, menancap dalam tanah untuk menyerap nutrisi. Tanaman aren menghasilkan buah yang dikenal sebagai kolang-kaling serta getah yang diolah menjadi gula aren. Selain itu, tanaman ini memiliki bunga berwarna kuning keemasan yang tumbuh di sepanjang tandan.",
+    "kegunaan": "Tanaman akar aren memiliki berbagai kegunaan yang signifikan bagi masyarakat. Akarnya sering dimanfaatkan dalam pengobatan tradisional untuk mengatasi berbagai penyakit, seperti gangguan pencernaan dan infeksi. Batangnya digunakan sebagai bahan bangunan dan kerajinan tangan karena kekuatannya. Daun aren dapat diolah menjadi bahan anyaman untuk kerajinan tradisional, seperti tikar dan keranjang. Getah yang dihasilkan dari batangnya diolah menjadi gula aren, yang merupakan pemanis alami dalam berbagai masakan dan minuman.",
+     "gambar": "https://storage.googleapis.com/image-app/image/akar_aren.png"
+
+},
+{
+    "id" :21,
+    "kategory" : "Akar",
+    "nama": "Akar pepaya",
+    "deskripsi": "Akar pepaya (Carica papaya) merupakan bagian dari tanaman pepaya yang tumbuh dengan sistem perakaran serabut yang menyebar luas di bawah permukaan tanah. Tanaman pepaya sendiri memiliki batang yang tegak, daun berbentuk menjari, dan buah yang kaya nutrisi. Akar pepaya berwarna cokelat keabu-abuan dan memiliki struktur yang cukup kuat untuk menopang tanaman yang bisa tumbuh hingga 10 meter tingginya. Akar ini berfungsi menyerap air dan nutrisi dari tanah, serta memberikan stabilitas bagi tanaman pepaya.",
+    "kegunaan": "Akar pepaya memiliki berbagai manfaat kesehatan yang telah dimanfaatkan dalam pengobatan tradisional. Ekstrak akar pepaya dikenal memiliki sifat anti-inflamasi dan analgesik, yang membantu meredakan nyeri dan peradangan. Akar pepaya juga dipercaya dapat membantu mengatasi masalah pencernaan, seperti diare dan sembelit, berkat kandungan senyawa aktifnya. Selain itu, akar pepaya digunakan sebagai diuretik alami, membantu membersihkan saluran kemih dan mencegah infeksi. Beberapa penelitian juga menunjukkan potensi akar pepaya dalam menghambat pertumbuhan sel kanker, meskipun masih diperlukan penelitian lebih lanjut untuk memastikan efektivitasnya.",
+    "gambar": "https://storage.googleapis.com/image-app/image/akar_pepaya.png"
+},
+{
+    "id" :22,
+    "kategory" : "Akar",
+    "nama": "Akar pule",
+    "deskripsi": "Akar pule, yang dikenal juga sebagai akar purwoceng (Pimpinella pruatjan), adalah tanaman herbal yang tumbuh di daerah pegunungan Indonesia, khususnya di Pulau Jawa. Tanaman ini memiliki batang pendek dengan daun berwarna hijau tua yang tersusun secara roset. Bagian akarnya berukuran kecil hingga sedang, berwarna coklat kemerahan, dan mengeluarkan aroma khas. Tanaman ini tumbuh di ketinggian lebih dari 2.000 meter di atas permukaan laut dan telah lama digunakan dalam pengobatan tradisional oleh masyarakat setempat.",
+    "kegunaan": "Akar pule memiliki berbagai manfaat kesehatan yang telah dikenal sejak lama dalam pengobatan tradisional. Tanaman ini terkenal sebagai afrodisiak alami, meningkatkan stamina dan vitalitas pria. Senyawa aktif yang terkandung dalam akar pure, seperti saponin dan alkaloid, dipercaya dapat meningkatkan kadar testosteron dan memperbaiki fungsi reproduksi. Selain itu, akar pure juga digunakan untuk meningkatkan daya tahan tubuh, mengurangi kelelahan, dan mengatasi gejala stres. Dalam pengobatan herbal, ekstrak akar pure sering digunakan sebagai tonik untuk meningkatkan kesehatan secara umum dan memperbaiki sirkulasi darah.",
+    "gambar": "https://storage.googleapis.com/image-app/image/akar_pule.png"
+},
+{
+    "id" :23,
+    "kategory" : "Akar",
+    "nama": "Akar Temu ireng",
+    "deskripsi": "Temu ireng (Curcuma aeruginosa) adalah tanaman herbal yang termasuk dalam keluarga Zingiberaceae, yang juga dikenal dengan nama temu hitam. Tanaman ini memiliki rimpang yang tebal dan berwarna gelap, cenderung kehitaman atau ungu gelap, yang tumbuh secara horizontal di bawah tanah. Daunnya panjang dan berwarna hijau tua dengan urat daun yang jelas terlihat. Bunga temu ireng berwarna kuning kehijauan dengan braktea ungu, tumbuh dalam tandan yang menarik. Rimpang temu ireng dikenal karena aromanya yang khas dan rasa pahit yang kuat.",
+    "kegunaan": "Akar temu ireng memiliki berbagai manfaat dalam kesehatan tradisional. Rimpangnya sering digunakan sebagai bahan ramuan herbal untuk mengatasi masalah pencernaan, seperti perut kembung, mual, dan gangguan lambung. Kandungan senyawa aktifnya, seperti kurkuminoid dan minyak atsiri, memiliki sifat antiinflamasi dan antioksidan yang kuat, membantu mengurangi peradangan dan melawan radikal bebas. Temu ireng juga digunakan dalam pengobatan tradisional untuk meningkatkan nafsu makan, mengatasi gangguan menstruasi, dan detoksifikasi tubuh. Selain itu, temu ireng dipercaya dapat membantu meningkatkan daya tahan tubuh dan mempercepat pemulihan dari penyakit.",
+    "gambar": "https://storage.googleapis.com/image-app/image/akar_temu_ireng.png"
+},
+{
+    "id" :24,
+    "kategory" : "Akar",
+    "nama": "Akar teratai",
+    "deskripsi": "Akar teratai, atau sering disebut rimpang teratai, adalah bagian dari tanaman teratai (Nelumbo nucifera) yang tumbuh di bawah air. Rimpang ini berbentuk silindris dengan panjang yang bervariasi dan memiliki permukaan yang halus berwarna cokelat muda hingga cokelat tua. Di dalamnya, daging akar teratai berwarna putih dengan tekstur yang renyah dan berlubang-lubang kecil yang membentuk pola unik. Rimpang teratai sering digunakan dalam masakan Asia, baik dalam bentuk segar, kering, atau diasinkan, memberikan rasa manis dan tekstur yang khas pada hidangan.",
+    "kegunaan": "Akar teratai memiliki banyak manfaat kesehatan yang telah diakui dalam pengobatan tradisional maupun modern. Rimpang ini kaya akan serat, vitamin C, potasium, dan senyawa fitokimia yang berperan sebagai antioksidan. Konsumsi akar teratai dapat membantu memperbaiki pencernaan, mengurangi peradangan, dan meningkatkan sistem kekebalan tubuh. Selain itu, kandungan potasiumnya dapat membantu mengatur tekanan darah dan menjaga kesehatan jantung. Beberapa penelitian juga menunjukkan bahwa akar teratai memiliki efek menenangkan yang dapat membantu mengurangi stres dan kecemasan, menjadikannya tambahan yang berharga dalam diet untuk menjaga kesehatan mental dan fisik.",
+    "gambar": "https://storage.googleapis.com/image-app/image/akar_teratai.png"
+},
+{
+    "id" :25,
+    "kategory" : "Akar",
+    "nama": "Akar lempuyang",
+    "deskripsi": "Akar lempuyang, yang berasal dari tanaman lempuyang (Zingiber zerumbet), merupakan bagian bawah tanah yang sering digunakan dalam berbagai pengobatan tradisional. Akar ini berbentuk rimpang yang tebal, dengan permukaan berwarna cokelat kekuningan dan memiliki aroma yang khas, sedikit pedas dan harum. Rimpang lempuyang tumbuh secara horizontal di bawah permukaan tanah, mirip dengan jahe dan kunyit. Di dalamnya, daging akar ini berwarna kuning pucat hingga oranye, bergantung pada varietasnya. Tanaman lempuyang sendiri dapat tumbuh hingga ketinggian sekitar 2 meter dengan daun hijau yang panjang dan bunga yang menarik.",
+    "kegunaan": "Akar lempuyang memiliki berbagai kegunaan dalam kesehatan berkat kandungan senyawa bioaktifnya seperti zerumbone, flavonoid, dan terpenoid. Secara tradisional, akar lempuyang digunakan untuk meredakan gangguan pencernaan, mengurangi gejala mual, dan memperbaiki nafsu makan. Selain itu, penelitian modern menunjukkan bahwa akar ini memiliki sifat anti-inflamasi, antioksidan, dan antikanker, yang dapat membantu dalam pengobatan berbagai penyakit kronis. Akar lempuyang juga dipercaya mampu meningkatkan sistem kekebalan tubuh dan memiliki efek analgesik yang bisa digunakan untuk meredakan nyeri. Dengan demikian, akar lempuyang merupakan salah satu tanaman herbal yang penting dalam menjaga kesehatan dan kesejahteraan tubuh.",
+    "gambar": "https://storage.googleapis.com/image-app/image/akar_lempuyang.png"
+},
+{
+    "id" :26,
+    "kategory" : "Akar",
+    "nama": "Akar temu giring",
+    "deskripsi": "Akar temu giring (Curcuma heyneana) merupakan salah satu jenis tanaman rimpang yang tergolong dalam keluarga Zingiberaceae. Tanaman ini memiliki rimpang yang berwarna kuning hingga oranye, dengan aroma khas yang tajam dan sedikit pahit. Akar temu giring berbentuk silindris dengan permukaan yang berlekuk dan berkerut, sering kali dilapisi oleh sisik-sisik rimpang yang tipis. Tanaman ini tumbuh subur di daerah tropis, terutama di Indonesia, dan sering ditemukan di lahan-lahan yang teduh dengan kelembapan yang tinggi.",
+    "kegunaan": "Akar temu giring telah lama digunakan dalam pengobatan tradisional karena memiliki berbagai khasiat kesehatan. Salah satu kegunaannya yang paling dikenal adalah sebagai detoksifikasi alami untuk tubuh, membantu membersihkan darah dan organ-organ dalam dari racun. Selain itu, akar ini juga digunakan sebagai antiinflamasi dan analgesik, yang efektif dalam meredakan nyeri dan pembengkakan. Ekstrak temu giring juga dipercaya dapat meningkatkan sistem imun, melancarkan pencernaan, serta memiliki sifat antimikroba yang membantu melawan infeksi. Beberapa penelitian juga menunjukkan potensi akar temu giring dalam pengobatan penyakit kulit dan sebagai bahan dasar dalam produk perawatan kecantikan.",
+    "gambar": "https://storage.googleapis.com/image-app/image/akar_temu_giring.png"
+},
+
+{
+    "id" :27,
+    "kategory" : "Batang",
+    "nama": "Batang delima",
+    "deskripsi": "Batang delima (Punica granatum) adalah bagian dari tanaman delima yang dikenal dengan ciri khasnya berupa batang berkayu dan bercabang-cabang. Tanaman ini bisa tumbuh hingga mencapai tinggi sekitar 5-10 meter, dengan batang yang berwarna cokelat keabuan dan sering memiliki permukaan kasar. Batang delima memiliki tekstur yang keras dan kuat, serta mampu bertahan dalam berbagai kondisi lingkungan, termasuk tanah yang kering. Daunnya yang hijau mengkilap dan berbentuk lonjong tumbuh secara bergantian sepanjang ranting, mempercantik tampilan tanaman ini. Bunga delima yang berwarna merah cerah dan berkelopak banyak sering muncul di ujung-ujung ranting, yang kemudian berkembang menjadi buah delima yang terkenal dengan biji-bijinya yang manis dan berair.",
+    "kegunaan": "Batang delima memiliki berbagai manfaat dalam bidang kesehatan, terutama berkat kandungan senyawa-senyawa aktif seperti alkaloid, flavonoid, dan tanin. Ekstrak dari batang delima sering digunakan dalam pengobatan tradisional untuk mengatasi gangguan pencernaan, seperti diare dan disentri, karena sifat antibakteri dan antiperadangannya. Selain itu, batang delima juga diketahui memiliki potensi sebagai antioksidan yang dapat membantu melindungi tubuh dari kerusakan akibat radikal bebas, serta meningkatkan kesehatan jantung dengan mengurangi tekanan darah dan kadar kolesterol. Beberapa penelitian juga menunjukkan bahwa ekstrak batang delima dapat berperan dalam menghambat pertumbuhan sel kanker, menjadikannya sebagai salah satu tanaman yang bernilai tinggi dalam dunia kesehatan dan pengobatan alami.",
+    "gambar": "https://storage.googleapis.com/image-app/image/batang_delima.png"
+},
+{
+    "id" :28,
+    "kategory" : "Batang",
+    "nama": "Batang dedep ayam",
+    "deskripsi": "Batang dedep ayam (Pseuderanthemum palatiferum) adalah tumbuhan semak yang tumbuh subur di daerah tropis dan subtropis. Batangnya tegak dan berkayu, dengan cabang-cabang yang rapat membentuk semak yang kompak. Dedep ayam memiliki daun hijau mengkilap yang berbentuk oval dan tersusun secara berlawanan. Bunganya kecil, berwarna putih atau ungu, dan muncul dalam tandan yang terletak di ujung batang atau di ketiak daun. Tumbuhan ini biasanya digunakan sebagai tanaman hias di taman, halaman, atau pot, karena keindahan daunnya yang menarik dan kemampuannya untuk tumbuh subur dalam berbagai kondisi lingkungan.",
+    "kegunaan": "Tanaman batang dedep ayam memiliki beberapa manfaat yang dapat mendukung kesehatan manusia. Beberapa penelitian menunjukkan bahwa ekstrak dedep ayam mengandung senyawa-senyawa aktif yang memiliki potensi sebagai antioksidan dan antiinflamasi. Antioksidan membantu melindungi sel-sel tubuh dari kerusakan oksidatif yang disebabkan oleh radikal bebas, sementara sifat antiinflamasi dapat membantu mengurangi peradangan dalam tubuh. Dengan demikian, ekstrak dedep ayam dapat digunakan dalam berbagai formulasi herbal untuk mendukung kesehatan kulit, meredakan peradangan pada kondisi tertentu, atau sebagai suplemen alami untuk meningkatkan kesehatan secara keseluruhan.",
+    "gambar": "https://storage.googleapis.com/image-app/image/batang_dedep_ayam.png"
+},
+{
+    "id" :29,
+    "kategory" : "Batang",
+    "nama": "Batang jeruk nipis",
+    "deskripsi": "Batang jeruk nipis merupakan bagian utama dari tanaman jeruk nipis yang memiliki ciri khas berwarna hijau kecoklatan dengan permukaan yang kasar. Batang ini tumbuh tegak dengan cabang-cabang yang menyebar. Jeruk nipis (Citrus aurantiifolia) adalah tumbuhan yang dikenal karena buahnya yang kecil dan berwarna hijau kekuningan, sering digunakan dalam berbagai aplikasi kuliner dan kesehatan. Batang jeruk nipis memiliki kemampuan untuk menopang struktur pohon dan mendukung perkembangan buah yang kaya akan vitamin C dan antioksidan. Selain itu, ekstrak dari batang jeruk nipis dapat dimanfaatkan dalam industri farmasi dan kosmetik karena kandungan zat-zat aktifnya yang bermanfaat.",
+    "kegunaan": "Batang jeruk nipis dapat dimanfaatkan dalam berbagai cara. Ekstraknya telah dikenal memiliki sifat anti-inflamasi dan antioksidan yang dapat membantu melawan radikal bebas dalam tubuh. Jeruk nipis juga mengandung senyawa-senyawa seperti flavonoid dan limonoid yang berpotensi untuk melawan infeksi dan memperkuat sistem kekebalan tubuh. Selain itu, konsumsi ekstrak batang jeruk nipis dapat membantu mengatur kadar gula darah, mendukung pencernaan yang sehat, dan bahkan digunakan sebagai bahan alami dalam produk-produk perawatan kulit. Dengan demikian, batang jeruk nipis tidak hanya berperan dalam mempertahankan struktur tanaman itu sendiri, tetapi juga memberikan manfaat kesehatan yang signifikan bagi manusia.",
+    "gambar": "https://storage.googleapis.com/image-app/image/batang_jeruk_nipis.png"
+},
+{
+    "id" :30,
+    "kategory" : "Batang",
+    "nama": "Batang pulasari",
+    "deskripsi": "Batang pulasari adalah tumbuhan berkayu yang berasal dari wilayah tropis Asia Tenggara, sering ditemukan tumbuh subur di hutan-hutan primer. Tumbuhan ini memiliki batang tegak dengan kulit kayu yang keras dan berwarna coklat keabu-abuan. Daun-daunnya berbentuk oval dengan tepi bergerigi, dan bunganya kecil serta berwarna putih. Buahnya berbentuk buni, berwarna merah saat matang, dan mengandung biji-biji kecil di dalamnya.",
+    "kegunaan": "Tanaman batang pulasari dalam kesehatan telah dikenal sejak zaman dahulu kala. Ekstrak batang pulasari mengandung senyawa-senyawa aktif yang memiliki sifat antibakteri, antiinflamasi, dan antioksidan. Secara tradisional, tanaman ini digunakan sebagai obat untuk mengobati berbagai gangguan kesehatan seperti infeksi bakteri, peradangan, serta sebagai tonik untuk meningkatkan daya tahan tubuh. Beberapa penelitian modern juga menunjukkan potensi batang pulasari dalam membantu mengatasi masalah kesehatan seperti radang sendi dan penyakit kulit tertentu, menjadikannya sebagai pilihan alami yang menarik dalam perawatan kesehatan yang holistik.",
+    "gambar": "https://storage.googleapis.com/image-app/image/batang_pulasari.png"
+}
+
+
+    
+]
+
